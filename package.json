@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "dotenv": "^8.0.0",
+    "env": "0.0.2",
     "express": "^4.17.1"
-
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
